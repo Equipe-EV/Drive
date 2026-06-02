@@ -1,1 +1,1 @@
-# Repositório do firmware para o inversor
+# Repositório do firmware para 6step feito para o BLUEPILL
